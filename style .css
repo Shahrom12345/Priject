@@ -1,0 +1,477 @@
+* {
+    margin: 0;
+}
+
+.container {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+.nav {
+    background-color: #7711DD;
+    height: 822px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+
+}
+
+.img1 {
+    margin-left: 200px;
+
+}
+
+.ggg {
+    display: flex;
+    margin-left: -150px;
+    margin-top: 30px;
+    gap: 200px;
+}
+
+.ggg1 {
+    display: flex;
+    margin-left: -100px;
+    margin-top: -25px;
+    gap: 200px;
+}
+
+.ggg2 {
+    display: flex;
+    margin-left: -50px;
+    gap: 200px;
+    margin-top: -22px;
+}
+
+.men {
+    margin-top: -40px;
+}
+
+.menu {
+    margin-top: 100px;
+}
+
+.menu span {
+    font-weight: 700;
+    font-size: 70px;
+    color: #FFFFFF;
+    font-family: cursive;
+
+}
+
+.menu p {
+    font-size: 18px;
+    color: rgb(193, 191, 191);
+}
+
+.menu button {
+    padding: 10px 45px;
+    border-radius: 7px;
+    border: none;
+    box-shadow: 0px 5px 0px 0px black;
+}
+
+.img2 {
+    margin-left: 10px;
+    margin-top: -400px;
+}
+
+.imm {
+    margin-top: -32px;
+}
+
+.img3 {
+    margin-left: 130px;
+
+}
+
+.box1 {
+    display: flex;
+}
+
+.img4 {
+    height: 718px;
+    margin-left: 60px;
+    margin-bottom: 80px;
+}
+
+.box2 {
+    margin-top: 80px;
+}
+
+.box2 h1 {
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.box2 p {
+    text-align: center;
+
+}
+
+.hom {
+    display: flex;
+    gap: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.box3 {
+    border: 1px solid black;
+    width: 400px;
+    background-color: #FA6648;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 0px 0px black;
+}
+
+.box31 {
+    background-color: #FFB0BC;
+}
+
+.box32 {
+    background-color: #FFBD12;
+}
+
+.hom p {
+    font-weight: 700;
+    font-size: 20px;
+    color: white;
+}
+
+.paragraf p {
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+}
+
+.paragraf {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.box4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.small {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+
+.all {
+    background-color: #962EFF;
+    height: 657px;
+}
+
+.box5 h1 {
+    font-size: 45px;
+    font-weight: 700px;
+    color: white;
+    font-family: cursive;
+    text-transform: uppercase;
+
+}
+
+.box5 p {
+    font-size: 18px;
+    color: rgb(201, 201, 201);
+}
+
+.but {
+    display: flex;
+    gap: 10px;
+}
+
+.but input {
+    padding: 10px;
+    width: 200px;
+    border-radius: 7px;
+    border: none;
+    box-shadow: 0px 3px 0px 0px black;
+
+}
+
+.but button {
+    padding: 10px;
+    width: 150px;
+    border-radius: 7px;
+    border: none;
+    background-color: #FFBD12;
+    box-shadow: 0px 3px 0px 0px black;
+}
+
+.woch {
+    padding-top: 164px;
+    padding-bottom: 164px;
+}
+
+.box5 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.voch {
+    height: 550px;
+    margin-top: 100px;
+}
+
+.peyj h1 {
+    font-weight: 700;
+    font-size: 45px;
+    font-family: cursive;
+    text-transform: uppercase;
+    margin-top: 150px;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+.peyj2 {
+    border: 1px solid black;
+    width: 400px;
+    height: 250px;
+    background-color: #1BDBC4;
+    border-radius: 10px;
+    box-shadow: 0px 5px 0px 0px black;
+}
+
+.peyj3 {
+    background-color: #962EFF;
+}
+
+.ppp {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.stor p {
+    font-size: 20px;
+}
+
+.ruz {
+    margin-top: 10px;
+}
+
+.box6 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 120px;
+}
+
+.butt p {
+    text-align: center;
+    font-size: 18px;
+}
+
+.butt h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.butt button {
+    padding: 10px;
+    width: 150px;
+    box-shadow: 0px 3px 0px 0px black;
+}
+
+.but1 {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+
+}
+
+.but11 {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.but22 {
+    border-radius: 0px 10px 10px 0px;
+}
+
+.box7 {
+    border: 1px solid rgb(30, 4, 4);
+    width: 23%;
+    background-color: #F95A2C;
+    border-radius: 10px;
+    box-shadow: 0px 5px 0px 0px black;
+}
+
+.pllan p {
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+
+.pllan h1 {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+.pllan button {
+    margin-top: 35px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    padding: 10px;
+    width: 250px;
+    border-radius: 7px;
+    box-shadow: 0px 2px 0px 0px black;
+}
+
+.box71 {
+    background-color: #1BDBC4;
+}
+
+.box72 {
+    background-color: #962EFF;
+}
+
+.box73 {
+    background-color: #FFBD12;
+}
+
+.box8 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+
+.now {
+    padding-top: 196px;
+}
+
+.box9 h1 {
+    font-size: 45px;
+    font-family: cursive;
+    text-transform: uppercase;
+
+}
+
+.now p {
+    font-size: 20px;
+    color: gray;
+}
+
+.down button {
+    padding: 10px;
+    width: 150px;
+    border-radius: 7px;
+    background-color: #FA6648;
+    color: white;
+    box-shadow: 0px 2px 0px 0px black;
+}
+
+.down {
+    display: flex;
+    margin-top: 50px;
+    gap: 10px;
+}
+
+.shep {
+    margin-left: 10px;
+    display: grid;
+    z-index: 2;
+    margin-top: -30px;
+}
+
+.log {
+    border: 1px solid black;
+    width: 37%;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 0px 0px black;
+}
+
+.log span {
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.logg {
+    padding: 10px;
+    width: 400px;
+    margin-left: 40px;
+    margin-top: 20px;
+    border-radius: 7px;
+}
+
+.in {
+    color: #FA6648;
+}
+
+.log p {
+    margin-left: 60px;
+    margin-top: -20px;
+}
+
+.log button {
+    width: 84%;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 44px;
+}
+
+.chec {
+    margin-left: 40px;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+.box9 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about {
+    display: flex;
+    gap: 34px;
+    font-size: 17px;
+    margin-left: 500px;
+    margin-top: 20px;
+    color: white;
+}
+
+.box10 {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.ssign {
+    padding: 10px;
+    border-radius: 7px;
+    background-color: #F95A2C;
+    color: white;
+}
+
+.down1 {
+    margin-left: 270px;
+    margin-top: 10px;
+}
+
+.down1 button {
+    background-color: #FFBD12;
+}
+
+.box12 {
+    background-color: #7711DD;
+}
